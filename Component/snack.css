@@ -1,0 +1,19 @@
+.body{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	border: 1px solid black;
+}
+.ui{
+	background: black;
+}
+.red{
+	box-sizing: border-box;
+	background: #0A89C9;
+	border: 2px solid #0872A7;
+}
+.green{
+	background: #31E231;
+}
